@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=gnome-polkit
+Comment=Gnome polkit agent
+Exec=exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+TryExec=exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+Terminal=false
+Hidden=false
